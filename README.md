@@ -12,14 +12,16 @@ This project implements a simple linear regression to predict house prices based
 
 Before starting, make sure you have installed the following libraries:
 
+- numpy
 - pandas
-- matplotlib
 - scikit-learn
+- matplotlib
+- seaborn
 
 You can install them using pip:
 
 ```bash
-pip install pandas matplotlib scikit-learn
+pip install pandas matplotlib scikit-learn seaborn numpy
 ```
 
 ## License
